@@ -4,6 +4,8 @@
 	//
 	//
 
+//test 
+
 var chairOne = 0;
 var chairTwo = 0;
 var couch = 0;
